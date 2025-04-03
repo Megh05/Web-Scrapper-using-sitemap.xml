@@ -54,4 +54,3 @@ output/
 ## Notes
 - The script only scrapes pages listed in the sitemap.  
 - Avoid overloading a website with too many requests.
-
